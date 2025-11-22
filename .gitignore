@@ -64,3 +64,6 @@ htmlcov/
 *.bak
 *.tmp
 .cache/
+
+# ブログ記事（非公開）
+note/
